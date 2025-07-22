@@ -38,7 +38,3 @@ This project demonstrates a comprehensive set of SQL queries for managing and an
 * Transaction analysis per month and average credit card balances.
 
 
----
-
-Let me know if you'd like to include a sample ER diagram, data schema, or SQL file in the repository!
-
